@@ -1,3 +1,20 @@
+
+This is a fork of a json of SRD 5.1 which we will turn into a set of rules which can be applied to D&D 5e so as to create a better, open version of the game. As you can tell by the title, initial efforts will focus on pathfinder for inspiration. The plan will be to adopt modified versions of some of the pathfinder 2e rules. 
+   
+
+Design goals:
+1. Be mostly compatible with 5e such that you would only need to modify a minimal amount rules.
+2. Make 5e combat less static
+3. Make martial classes feel better
+4. Don't be too complex
+5. Maintain a very strong focus on role play.
+6. Maintain balance but allow min/maxing. 
+
+Repo Goals:
+Store/version control added rules
+Store/version control playtest feedback
+Store python tools that simulates combat between classes for balance purposes
+
 # CC-SRD
 
 This repository contains the SRD 5.1 (Creative Commons) converted to other file types and data formats, intended to support the creation of tools and resources for the TTRPG community.
