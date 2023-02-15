@@ -11,9 +11,9 @@ Design goals:
 6. Maintain balance but allow min/maxing. 
 
 Repo Goals:
-Store/version control added rules
-Store/version control playtest feedback
-Store python tools that simulates combat between classes for balance purposes
+1. Store/version control added rules
+2. Store/version control playtest feedback
+3. Store python tools that simulates combat between classes for balance purposes
 
 # CC-SRD
 
